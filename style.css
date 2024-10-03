@@ -1,0 +1,24 @@
+
+body{
+    
+    font-family: "Poppins", sans-serif;
+    background-image: url(main.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+
+
+
+
+}
+
+.center-img{
+    position: fixed;
+    left: 130px;
+    top: 550px;
+    
+
+
+
+}
